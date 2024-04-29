@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Trebuchet MS';
+  src: url('/fonts/Trebuchet/Trebuchet-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Trebuchet MS';
+  src: url('/fonts/Trebuchet/TrebuchetMS-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Trebuchet MS';
+  src: url('/fonts/Trebuchet/TrebuchetMS-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Trebuchet MS';
+  src: url('/fonts/Trebuchet/TrebuchetMS.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+html {
+  font-family: 'Trebuchet MS';
+  font-weight: 400;
+}
+
+#app {
+  padding-top: 75px;
+}
